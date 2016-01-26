@@ -1,0 +1,14 @@
+ /*  ----- Flex Wrapper ----- */
+
+ .wrapper {
+     display: flex;
+     flex-direction: column;
+     min-width: 92.72727272727273%;
+     margin: 0 auto;
+ }
+
+ nav {
+     display: flex;
+     flex-direction: column;
+     text-decoration: none;
+ }
